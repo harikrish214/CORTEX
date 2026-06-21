@@ -1,0 +1,13 @@
+# Ignore node modules and frontend code
+frontend/
+node_modules/
+.next/
+.git/
+.github/
+.vscode/
+ml_training/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
